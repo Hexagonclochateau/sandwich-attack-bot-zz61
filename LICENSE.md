@@ -1,4 +1,4 @@
-# 
+# best sandwich attack bot | rug-pull-detection + private-RPC-nodes is the best sandwich attack bot, featuring rug-pull-detection and private-RPC-nodes. Fast, smart, and optimized
 
 
 
